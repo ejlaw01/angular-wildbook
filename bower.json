@@ -1,0 +1,19 @@
+{
+  "name": "wildbook",
+  "description": "IBEIS based animal identification web application",
+  "main": "",
+  "authors": [
+    "Ethan Law <ejlaw01@gmail.com>",
+    "Katrina Hirsch <katrina.hirsch@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "ibeis.org",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true
+}
