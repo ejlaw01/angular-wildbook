@@ -1,0 +1,21 @@
+.header-back {
+  position: relative;
+  height: 110px;
+  width: 100%;
+  background-color: $background-dark;
+}
+
+.header {
+  position: relative;
+  height: 100%;
+  max-width: 970px;
+  margin: 0 auto;
+  img {
+    // top: 50%;
+    // transform: translate(0, -50%);
+  }
+  #logo {
+    height: 70px;
+    margin: 20px;
+  }
+}

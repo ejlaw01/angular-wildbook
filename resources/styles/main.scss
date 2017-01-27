@@ -1,9 +1,4 @@
+@import "modules/_colors.scss";
+
 @import "partials/_reset.scss";
 @import "partials/_header.scss";
-
-h1 {
-  color: red;
-  &:hover {
-    color: blue;
-  }
-}
