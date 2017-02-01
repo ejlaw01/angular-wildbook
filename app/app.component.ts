@@ -7,7 +7,8 @@ import { Component } from '@angular/core';
   <nav></nav>
   <div class="container">
     <h1>Encounter with Ajax</h1>
-    <gallery></gallery>  
+    <gallery></gallery>
+    <location></location>
   </div>
   `
 })

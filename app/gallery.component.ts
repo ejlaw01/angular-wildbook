@@ -6,6 +6,12 @@ import { Component } from '@angular/core';
     <div class="gallery-wrapper">
       <selected-image></selected-image>
       <div class="gallery">
+        <div class="thumbnail"></div>
+        <div class="thumbnail"></div>
+        <div class="thumbnail"></div>
+        <div class="thumbnail"></div>
+        <div class="thumbnail"></div>
+        <div class="thumbnail"></div>
       </div>
     </div>
   `
